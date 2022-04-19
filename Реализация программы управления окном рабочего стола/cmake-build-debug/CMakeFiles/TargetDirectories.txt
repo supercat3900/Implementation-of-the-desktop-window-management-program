@@ -1,3 +1,0 @@
-C:/Users/super/CLionProjects/Реализация программы управления окном рабочего стола/cmake-build-debug/CMakeFiles/_____.dir
-C:/Users/super/CLionProjects/Реализация программы управления окном рабочего стола/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/super/CLionProjects/Реализация программы управления окном рабочего стола/cmake-build-debug/CMakeFiles/rebuild_cache.dir
